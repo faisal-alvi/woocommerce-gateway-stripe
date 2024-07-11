@@ -21,6 +21,7 @@ on:
     types: [opened, synchronize, reopened, labeled]
     branches:
       - trunk
+      - develop
 
 permissions:
   contents: read
