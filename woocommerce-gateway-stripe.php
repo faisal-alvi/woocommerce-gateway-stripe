@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Required minimums and constants
+ * Required minimums and constants.
  */
 define( 'WC_STRIPE_VERSION', '8.4.0' ); // WRCS: DEFINED_VERSION.
 define( 'WC_STRIPE_MIN_PHP_VER', '7.3.0' );
